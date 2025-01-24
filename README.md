@@ -3,12 +3,12 @@
 ## Description Projects
 The dataset from this link : https://www.kaggle.com/datasets/shekpaul/global-superstore
 
-## Goals
+### Goals
 1. goals 1
 2. goals 2
 3. goals 3
 
-## Insight
+### Insight
 1. insight 1
 2. insight 2
 3. insight 3
